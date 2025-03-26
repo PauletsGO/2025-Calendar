@@ -1,7 +1,7 @@
  body {
         background-color: #000000;
         background-image: url("https://images4.alphacoders.com/134/thumb-1920-1347366.png");
-        background-size: cover;
+        background-size: 100% 100%;
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
